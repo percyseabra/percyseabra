@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @percyseabra
-- 😜 Learning front end daily.
+- 😜 Learning front-end daily.
 - 🌱 I’m currently learning CSS development language.
 
 ##
