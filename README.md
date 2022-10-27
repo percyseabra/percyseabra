@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @percyseabra
-- 🌱 I’m currently learning CSS development language.
 - 😜 Learning front end daily.
+- 🌱 I’m currently learning CSS development language.
 
 ##
 
